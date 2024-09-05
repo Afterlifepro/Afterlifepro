@@ -3,6 +3,7 @@
 I like doing react stuff!  
 
 I think doctor who, neocities, and dnd are pretty neato  
+<span style="text-align:right">i use arch btw</span>
 ### [Heres my neocities](https://afterlifepro.neocities.org/)
 ### Heres an ascii spinner in html
 ```html
